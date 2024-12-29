@@ -1,4 +1,4 @@
-```markdown
+
 # date-formatter
 
 [![Crates.io](https://img.shields.io/crates/v/date-formatter.svg)](https://crates.io/crates/date-formatter)
@@ -54,4 +54,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## License
 
 This crate is licensed under the MIT License.
-```
+
